@@ -13,6 +13,5 @@ public class Enderecotest {
         pessoa.setCpf("11417780451");
         pessoa.setNome("Tobirama");
         pessoa.imprime();
-
     }
 }
